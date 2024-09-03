@@ -41,7 +41,9 @@ While I'm still exploring my career path, my goal is to find opportunities where
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jerrycampos02) 
 
+<br />
 
+#
 
 ![WakoSD's GitHub stats](https://github-readme-stats.vercel.app/api?username=WakoSD&show_icons=true&theme=gruvbox)
 <!--
