@@ -23,6 +23,7 @@ While I'm still exploring my career path, my goal is to find opportunities where
 <img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <br />
+<br />
 
 ### 🎨 Design Tools
 
@@ -37,8 +38,7 @@ While I'm still exploring my career path, my goal is to find opportunities where
 
 #
 
-
-## 🌐 Socials:
+### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jerrycampos02) 
 
 
