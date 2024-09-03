@@ -1,4 +1,9 @@
 ## Hi there 👋
+👋 Hi, I'm Jerry Campos
+I'm a soon-to-be graduate in Systems Engineering with a passion for web development and game development. My technical journey has given me solid experience with languages like Java, Python, and C#. I’ve also worked extensively with Entity Framework and ASP.NET Core 8 to build robust web applications, and I enjoy creating immersive experiences in Unity 2D.
+
+While I'm still exploring my career path, my goal is to find opportunities where I can succeed while having fun along the way. I believe in the power of continuous learning and embracing challenges to grow both professionally and personally.
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
