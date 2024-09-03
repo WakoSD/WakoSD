@@ -4,7 +4,7 @@ I'm a soon-to-be graduate in Systems Engineering with a passion for web developm
 
 While I'm still exploring my career path, my goal is to find opportunities where I can succeed while having fun along the way. I believe in the power of continuous learning and embracing challenges to grow both professionally and personally.
 
-![WakoSD's GitHub stats](https://github-readme-stats.vercel.app/api?username=WakoSD&show_icons=true&theme=radical)
+![WakoSD's GitHub stats](https://github-readme-stats.vercel.app/api?username=WakoSD&show_icons=true&theme=radical?theme=gruvbox)
 
 
 ### 🧰 Languages and Tools
