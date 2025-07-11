@@ -1,8 +1,14 @@
 
 <h2>👋 Hi, I'm Jerry Campos</h2>
-I'm a soon-to-be graduate in Systems Engineering with a passion for web development and game development. My technical journey has given me solid experience with languages like Java, Python, and C#. I’ve also worked extensively with Entity Framework and ASP.NET Core 8 to build robust web applications, and I enjoy creating immersive experiences in Unity 2D.
+I’m a Systems Engineering graduate with over 3 years of experience in corporate-level IT support and backup User Access Management (UAM).
 
-While I'm still exploring my career path, my goal is to find opportunities where I can succeed while having fun along the way. I believe in the power of continuous learning and embracing challenges to grow both professionally and personally.
+Currently, I work as an IT Service Desk Agent, providing Level 1 and 2 technical support, maintaining user access, troubleshooting issues, and ensuring fast, reliable service to internal users.
+
+My professional goal is to transition into a Cloud Engineering role. I’m actively learning about cloud platforms like Microsoft Azure and AWS, combining my hands-on IT experience with a growing foundation in cloud technologies.
+
+I hold certifications in Scrum Fundamentals and Cisco IT Essentials, which support my technical knowledge and teamwork in agile environments.
+
+I’m open to new opportunities, especially those that allow me to grow toward Cloud roles and continue building technical skills in dynamic and innovative environments.
 
 ---
 
