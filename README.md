@@ -1,14 +1,25 @@
 
 <h2>👋 Hi, I'm Jerry Campos</h2>
-I’m a Systems Engineering graduate with over 3 years of experience in corporate-level IT support and backup User Access Management (UAM).
 
-Currently, I work as an IT Service Desk Agent, providing Level 1 and 2 technical support, maintaining user access, troubleshooting issues, and ensuring fast, reliable service to internal users.
 
-My professional goal is to transition into a Cloud Engineering role. I’m actively learning about cloud platforms like Microsoft Azure and AWS, combining my hands-on IT experience with a growing foundation in cloud technologies.
+I’m a **.NET Backend Developer** focused on building scalable applications and APIs using **C# and ASP.NET Core**, with a strong technical foundation from corporate IT environments.
 
-I hold certifications in Scrum Fundamentals and Cisco IT Essentials, which support my technical knowledge and teamwork in agile environments.
+I have 3+ years of experience working in enterprise-level technology teams, which has given me strong problem-solving skills, system awareness, and professional experience in real-world environments.
 
-I’m open to new opportunities, especially those that allow me to grow toward Cloud roles and continue building technical skills in dynamic and innovative environments.
+Today, my career focus is fully oriented toward **software development**, especially backend/frontend engineering with Microsoft technologies.
+
+## 💻 Development Focus
+
+- Backend Development with **.NET & C#**
+- Building REST APIs with **ASP.NET Core**
+- Learning modern architecture principles (Clean Code, scalable systems)
+- Growing toward a long-term path in **Solution Architecture**
+
+---
+
+## 🎮 Unity & C# Experience
+
+I also have experience developing projects with **Unity**, which has strengthened my programming logic, object-oriented thinking, and practical use of C# in real applications.
 
 ---
 
@@ -40,6 +51,12 @@ I’m open to new opportunities, especially those that allow me to grow toward C
 
 #
 
+I’m currently looking for:
+
+- Junior .NET Developer roles  
+- Fullstack-focused internships or projects  
+- C# development collaborations
+  
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jerrycampos02) 
 
