@@ -1,19 +1,19 @@
 
 <h2>👋 Hi, I'm Jerry Campos</h2>
 
+Hey! I am a Systems Engineer with 4+ years of experience in enterprise IT environments, currently specializing in Cybersecurity.
+Experienced in user access management, technical support, troubleshooting, and secure system operations within corporate environments.
 
-I’m a **.NET Backend Developer** focused on building scalable applications and APIs using **C# and ASP.NET Core**, with a strong technical foundation from corporate IT environments.
+Strong technical background in software development using .NET Core, MVC, APIs, SQL, combined with growing expertise in cybersecurity operations, vulnerability assessment, threat detection, and security best practices.
 
-I have 3+ years of experience working in enterprise-level technology teams, which has given me strong problem-solving skills, system awareness, and professional experience in real-world environments.
+Currently pursuing a Master’s Degree in Cybersecurity while preparing for industry certifications including CompTIA Security+, CySA+, and PenTest+.
 
-Today, my career focus is fully oriented toward **software development**, especially backend/frontend engineering with Microsoft technologies.
+Passionate about continuous learning, cloud security, and helping organizations strengthen their security posture through secure and scalable solutions.
 
-## 💻 Development Focus
+## 💻 Development 
 
 - Backend Development with **.NET & C#**
 - Building REST APIs with **ASP.NET Core**
-- Learning modern architecture principles (Clean Code, scalable systems)
-- Growing toward a long-term path in **Solution Architecture**
 
 ---
 
@@ -48,14 +48,6 @@ I also have experience developing projects with **Unity**, which has strengthene
 </div>
 
 <br />
-
-#
-
-I’m currently looking for:
-
-- Junior .NET Developer roles  
-- Fullstack-focused internships or projects  
-- C# development collaborations
   
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jerrycampos02) 
