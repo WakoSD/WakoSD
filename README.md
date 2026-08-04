@@ -50,7 +50,7 @@ I also have experience developing projects with **Unity**, which has strengthene
 <br />
   
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jerrycampos02) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jerryca) 
 
 <!--https://wakosd.github.io/WebPortfolio-WakoSD/-->
  
