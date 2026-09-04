@@ -34,6 +34,7 @@ I also have experience developing projects with **Unity**, which has strengthene
     <img alt="C#" width="30px" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
     <img alt="Azure" width="30px" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
     <img alt="MySQL" width="30px" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+    <img alt="MySQL" width="30px" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 </div>
 <br />
 
